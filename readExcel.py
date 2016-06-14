@@ -1,4 +1,7 @@
 #coding:utf-8
+'''
+   作者：    chenqing
+'''
 import xdrlib,sys
 import xlrd
 from datetime import date
