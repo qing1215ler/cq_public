@@ -1,4 +1,8 @@
 #coding=utf-8
+'''
+useage: python APKChannel.py xxx.apk channel
+'''
+
 import zipfile
 import os,sys
 import shutil
